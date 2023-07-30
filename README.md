@@ -1,5 +1,7 @@
 # TheCollatzConjecture
-The chaotic visualization of 3n+1; more commonly known as the Collatz Conjecture
+The chaotic visualization of 3n+1; more commonly known as the Collatz Conjecture.  
+The Collatz Conjecture is a riveting set of arithmetic instructions, which, when performed *repeatedly* on any integer are thought to result in 1.  
+The only problem is - there exists no proof of this. Brute force calculations have not disproven this conjecture yet, but brute force is not a rigorous and numerical proof.  
 
 ![Collatz Conjecture Output](https://github.com/TheCalculus/TheCollatzConjecture/blob/main/conjecture.png?raw=true)
 
